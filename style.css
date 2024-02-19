@@ -28,3 +28,17 @@ body {
   color: #1e313e;
   font-size: 30px;
 }
+
+.section-about {
+  display: flex;
+  justify-content: space-around;
+  background-color: #1e313e;
+  padding: 60px;
+}
+
+.about-us {
+  align-self: center;
+  padding: 10px;
+  color: #fff;
+  font-size: 18px;
+}
