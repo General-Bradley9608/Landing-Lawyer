@@ -1,5 +1,6 @@
 body {
-    margin: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
 }
 
 .nav {
@@ -15,5 +16,15 @@ body {
   font-size: 16px;
   text-transform: uppercase;
   text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
+}
+
+.section-header {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  text-transform: uppercase;
+  color: #1e313e;
+  font-size: 30px;
 }
