@@ -42,3 +42,26 @@ body {
   color: #fff;
   font-size: 18px;
 }
+
+.wrapper {
+  display: flex;
+  background-color: #1e313e;
+  padding: 80px;
+  color: #fff;
+}
+
+.reason-block {
+  padding: 30px;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-around;
+}
+
+span {
+  color: #1e313e;
+  background-color: #bb8a5e;
+  border-radius: 50px;
+  font-size: 70px;
+  margin: 40px;
+  padding: 20px;
+}
