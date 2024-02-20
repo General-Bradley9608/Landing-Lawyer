@@ -65,3 +65,10 @@ span {
   margin: 40px;
   padding: 20px;
 }
+
+.services {
+  display: flex;
+  justify-content: center;
+  background-color: #1e313e;
+  padding: 60px;
+}
