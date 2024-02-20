@@ -72,3 +72,12 @@ span {
   background-color: #1e313e;
   padding: 60px;
 }
+
+.prices {
+  display: flex;
+  justify-content: center;
+  background-color: #1e313e;
+  font-size: 18px;
+  padding: 10px;
+  color: #fff;
+}
