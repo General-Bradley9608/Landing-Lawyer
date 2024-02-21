@@ -88,3 +88,27 @@ span {
   background-color: #1e313e;
   padding: 50px;
 }
+
+.footer-container {
+  background-color: #1e313e;
+  padding: 5px;
+}
+
+.footer {
+  color: #efd3a2;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+a {
+  color: #efd3a2;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+button {
+  padding: 30px;
+  margin: 10px;
+  border-radius: 30px;
+  background-color: #1e313e;
+}
