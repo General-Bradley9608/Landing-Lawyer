@@ -112,3 +112,28 @@ button {
   border-radius: 30px;
   background-color: #1e313e;
 }
+
+@media all and (max-width: 800px) {
+  .nav {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .section-about {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .services > img {
+    width: 150%;
+  }
+
+  .prices > img {
+    width: 150px;
+  }
+}
