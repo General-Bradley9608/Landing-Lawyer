@@ -1,6 +1,6 @@
 # Landing page for a lawyer's office
 
-![cover](./drawingApp.gif)
+![cover](/assets/lawyer.jpg)
 
 ## 🦉 Main information
 
