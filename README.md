@@ -9,6 +9,7 @@ A simple landing page for a lawyer's office to study the positioning of elements
 The project goal:
 
 - use semantic layout;
+- use cross-browser layout;
 - create differents sections;
 - add and position images to the page;
 - learn to use Flexbox;
